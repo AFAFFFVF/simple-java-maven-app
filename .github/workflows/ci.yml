@@ -1,4 +1,4 @@
-name: CI Workflowname: CI Workflow
+name: CI Workflow
 on: [push]
 jobs:
   build:
